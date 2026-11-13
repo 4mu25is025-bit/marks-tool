@@ -1,3 +1,4 @@
+
 """Marks Tool - print a short report for a list of marks."""
 
 from config import load_env
